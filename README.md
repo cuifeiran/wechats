@@ -23,15 +23,16 @@ then，discover an app named unite
 ![3.png](/screenshots/3.png)
 
 ## 软件截图（这个web界面可以调节大小的，良心！）
-wechats/screenshots/2.png
 
+* 调整窗口透明度、标题、图标
 [](/screenshots/21.png)
 
+*设置地址图标之类
 [](/screenshots/22.png)
 
+*耗电还可以
 [](/screenshots/23.png)
 
-[](/screenshots/24.png)
 
 ##安装地址：我也不会做花里胡哨的命令下载。。就这样点击链接下载吧。。
 
