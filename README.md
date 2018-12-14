@@ -34,7 +34,7 @@ then，discover an app named unite
 ![](/screenshots/23.png)
 
 
-##安装地址：我也不会做花里胡哨的命令下载。。就这样点击链接下载吧。。
+## 安装地址：我也不会做花里胡哨的命令下载。。就这样点击链接下载吧。。
 
 大招：[点击这里下载wechats](/wechats_app.dmg)
 
@@ -42,7 +42,7 @@ then，discover an app named unite
 
 顺便祭出珍藏多年的：[icon免费下载地址](https://www.easyicon.net/) （终于可以换图标装B了！）
 
-##免责声明
+## 免责声明
 
 我不知道我不听我不管我看不见🙊🙉🐒🙈我是个连markdown语法都要百度的孩子
 
