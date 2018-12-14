@@ -18,24 +18,24 @@ then，discover an app named unite
 
 ![1.png](/screenshots/1.png)
 
-![2.png](https://github.com/cuifeiran/wechats/screenshots/2.png)
+![2.png](/screenshots/2.png)
 
-![3.png](https://github.com/cuifeiran/wechats/screenshots/3.png)
+![3.png](/screenshots/3.png)
 
 ## 软件截图（这个web界面可以调节大小的，良心！）
 wechats/screenshots/2.png
 
-[](https://github.com/cuifeiran/wechats/screenshots/21.png)
+[](/screenshots/21.png)
 
-[](https://github.com/cuifeiran/wechats/screenshots/22.png)
+[](/screenshots/22.png)
 
-[](https://github.com/cuifeiran/wechats/screenshots/23.png)
+[](/screenshots/23.png)
 
-[](https://github.com/cuifeiran/wechats/screenshots/24.png)
+[](/screenshots/24.png)
 
 ##安装地址：我也不会做花里胡哨的命令下载。。就这样点击链接下载吧。。
 
-大招：[点击这里下载wechats](https://github.com/cuifeiran/wechats/wechats_app.dmg)
+大招：[点击这里下载wechats](/wechats_app.dmg)
 
 顺便祭出珍藏多年的：[icon免费下载地址](https://www.easyicon.net/) （终于可以换图标装B了！）
 
