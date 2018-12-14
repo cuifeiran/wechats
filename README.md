@@ -22,9 +22,11 @@ then，discover an app named unite
 
 ![3.png](/screenshots/3.png)
 
-## 软件截图（这个web界面可以调节大小的，良心！）
 
-* 调整窗口透明度、标题、图标
+
+## 软件截图
+
+* 调整窗口透明度、标题、图标（这个web界面可以调节大小的，良心！）
 ![](/screenshots/21.png)
 
 * 设置地址图标之类
@@ -36,11 +38,12 @@ then，discover an app named unite
 
 ## 安装地址：我也不会做花里胡哨的命令下载。。就这样点击链接下载吧。。
 
-大招：[点击这里下载wechats](/wechats_app.dmg)
+大招：[点击这里下载wechats](https://raw.githubusercontent.com/cuifeiran/wechats/master/wechats_app.dmg)
 
-还有，[点击这里下载unite](/Unite_2.0.dmg)
+还有，[点击这里下载unite](https://raw.githubusercontent.com/cuifeiran/wechats/master/Unite_2.0.dmg)
 
 顺便祭出珍藏多年的：[icon免费下载地址](https://www.easyicon.net/) （终于可以换图标装B了！）
+
 
 ## 免责声明
 
