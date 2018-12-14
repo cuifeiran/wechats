@@ -16,13 +16,14 @@ then，discover an app named unite
 
 就是这个了： [将任意网站转换成 macOS 原生应用](http://www.sohu.com/a/210319321_464078#comment_area "With a Title")
 
-![1.jpg](https://github.com/cuifeiran/wechats/screenshots/1.jpg)
+![1.png](https://cuifeiran.github.io/wechats/screenshots/1.png)
 
 ![2.png](https://github.com/cuifeiran/wechats/screenshots/2.png)
 
 ![3.png](https://github.com/cuifeiran/wechats/screenshots/3.png)
 
 ## 软件截图（这个web界面可以调节大小的，良心！）
+wechats/screenshots/2.png
 
 [](https://github.com/cuifeiran/wechats/screenshots/21.png)
 
