@@ -38,6 +38,8 @@ then，discover an app named unite
 
 大招：[点击这里下载wechats](/wechats_app.dmg)
 
+还有，[点击这里下载unite](/Unite_2.0.dmg)
+
 顺便祭出珍藏多年的：[icon免费下载地址](https://www.easyicon.net/) （终于可以换图标装B了！）
 
 ##免责声明
