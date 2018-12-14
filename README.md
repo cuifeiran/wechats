@@ -16,7 +16,7 @@ then，discover an app named unite
 
 就是这个了： [将任意网站转换成 macOS 原生应用](http://www.sohu.com/a/210319321_464078#comment_area "With a Title")
 
-![avatar](https://github.com/cuifeiran/wechats/screenshots/1.png))
+![avatar](https://github.com/cuifeiran/wechats/screenshots/1.png)
 
 [](https://github.com/cuifeiran/wechats/screenshots/2.png)
 
